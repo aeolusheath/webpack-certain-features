@@ -1,7 +1,6 @@
 {
-  "name": "webpack-code-split-demo",
+  "name": "webpack-feature",
   "version": "1.0.0",
-  "description": "A Vue.js project",
   "author": "kevinkang <kevinkang@wise2c.com>",
   "private": true,
   "scripts": {
