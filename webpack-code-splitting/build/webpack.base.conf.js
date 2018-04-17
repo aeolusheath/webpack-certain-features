@@ -11,8 +11,7 @@ function resolve (dir) {
 module.exports = {
   entry: {
     app: './src/main.js',
-    utils: './src/utils/utils',
-    base: ['vue', 'jquery']
+    utils: './src/utils/utils.js'
   },
   output: {
     path: config.build.assetsRoot,
