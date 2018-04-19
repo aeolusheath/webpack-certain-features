@@ -1,4 +1,4 @@
 export function checkRepeat (arr) {
-  var xxxxxxxxxxxxxxxxxxxxxxxxx = [...new Set(arr)].length
-  return xxxxxxxxxxxxxxxxxxxxxxxxx !== arr.length
+  var newUniqueLength = [...new Set(arr)].length
+  return newUniqueLength !== arr.length
 }
