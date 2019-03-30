@@ -87,7 +87,7 @@ module.exports = {
 
 &emsp;vue.manifest.json文件是用来描述动态链接库文件中模块的映射信息【自行打开文件查看】。
 
-###  第二步 在webpack.config.js中使用DllPluginReference引用
+###  第二步，在webpack.config.js中使用DllPluginReference引用
 
 &emsp;我们在build的webpack.prod.conf.js中添加：
 ```javascript
@@ -105,7 +105,7 @@ module.exports = {
 ```
 
 
-### 第二步，编译项目然后引入dll文件
+### 第三步，编译项目然后引入dll文件
 
 `注意`：
 
