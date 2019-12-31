@@ -1,3 +1,7 @@
+
+警告⚠️warning:
+   现在webpack已经4.x了，里面有的内容已经过时，比如commonchunks，建议先确认版本
+
 # webpack certain feature practice
 
 > some features in webpack, every single direcotry is a certain feature.
